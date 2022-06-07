@@ -173,5 +173,11 @@ html {
     height: 10 em;
     width: 10em;
     margin-left: 80px ;
-    
+
   }
+
+  .ScrollStyle
+{
+    max-height: 600px;
+    overflow-y: scroll;
+}
