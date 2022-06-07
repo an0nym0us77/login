@@ -5,9 +5,9 @@ html {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: linear-gradient(#F2994A, #F2C94C);
+    background: linear-gradient(#f78307, #edd749);
 
-    /* linear-gradient(#bc4e9c, #f80759); */
+    /*  */
   }
   
   .login-box {
@@ -17,7 +17,7 @@ html {
     width: 700px;
     padding: 40px;
     transform: translate(-50%, -50%);
-    background: rgba(255, 2, 91, 0.5);
+    background: rgb(255, 255, 255);
     box-sizing: border-box;
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
     border-radius: 10px;
@@ -182,4 +182,8 @@ html {
 {
     max-height: 600px;
     overflow-y: scroll;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
 }
