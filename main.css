@@ -181,3 +181,8 @@ html {
     max-height: 600px;
     overflow-y: scroll;
 }
+
+#wrng{
+  color:red;
+}
+    
