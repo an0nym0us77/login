@@ -1,7 +1,7 @@
 
 $('a').click(function(){
     var pass = $('#pass').val();
-    if(pass == 'youdoloveme' || pass=='Youdoloveme'){
+    if(pass == 'youdontloveme' || pass=='Youdontloveme'){
         window.location.replace("yes.html");
     }
     else{
